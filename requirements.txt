@@ -1,0 +1,4 @@
+libvirt-python==7.10.0
+PyYAML==6.0
+urwid==2.1.2
+virt-lightning==2.1.0
